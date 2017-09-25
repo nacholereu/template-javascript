@@ -1,0 +1,1 @@
+mensaje=document.getElementById('mensaje');
